@@ -1,1 +1,1 @@
-Working with react and redu thunk
+Working with react and redux thunk
